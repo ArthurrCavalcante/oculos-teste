@@ -1,0 +1,9 @@
+{
+  "name": "VisionAssist Stereo",
+  "description": "Óculos inteligentes assistivos com visão estereoscópica. Arquitetura híbrida (TS/C++) para medição precisa de distância usando triangulação por paralaxe e IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
